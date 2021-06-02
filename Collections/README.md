@@ -1,5 +1,5 @@
 # Collections
-DESCRIPTION
+## DESCRIPTION
 
 ## This section will guide you to:
 
